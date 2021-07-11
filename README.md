@@ -12,9 +12,8 @@
 
 <br>
 
-#### Trying to get work this stuff
-
 <p align="justify">
+  #### Trying to get work this stuff
   <a href="https://github.com/hazer-hazer/Jacy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazer-hazer&repo=Jacy&theme=dracula&border_radius=10" />
   </a>
