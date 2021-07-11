@@ -1,6 +1,6 @@
 # AUTH ☝️
 
-<p align="justify">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=hazer-hazer&count_private=true&show_icons=true&theme=dracula&border_radius=6" />
   </a>
