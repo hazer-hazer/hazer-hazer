@@ -7,5 +7,5 @@
 [![*Jacy*](https://github-readme-stats.vercel.app/api/pin/?username=hazer-hazer&repo=Jacy&theme=dracula)](https://github.com/hazer-hazer/Jacy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazer-hazer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazer-hazer&theme=dracula&langs_count=9999)](https://github.com/anuraghazra/github-readme-stats)
 
