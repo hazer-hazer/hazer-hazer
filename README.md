@@ -6,8 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazer-hazer&repo=Jacy&theme=dracula&border_radius=10" />
 </a>
 
-<div style="width: 150px; height: 50px; margin: 10px auto; background-image: url(https://pbs.twimg.com/media/DOYytEyXcAM_Zu4.jpg);"></div>
-
+### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hazer-hazer&count_private=true&show_icons=true&theme=dracula&border_radius=6" />
 </a>
