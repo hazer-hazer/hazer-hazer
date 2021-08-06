@@ -3,7 +3,7 @@
 ### Trying to get work this stuff
 
 <a href="https://github.com/jacylang/Jacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacylang&repo=Jacy&border_radius=8&title_color=F35353&bg_color=F0E6EF&text_color=14080E&border_color=D1C8E1&hide_border=false&icon_color=161032"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacylang&repo=Jacy&border_radius=8&title_color=F35353&bg_color=FFFFFF&text_color=14080E&border_color=D1C8E1&hide_border=false&icon_color=161032"/>
 </a>
 
 ### Stats
