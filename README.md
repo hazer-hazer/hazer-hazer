@@ -1,6 +1,6 @@
 # AUTH ☝️
 
-### Trying to get work this stuff
+### Cooking
 
 <p>
   <img align="left" src="img/jacy-logo.svg" height="120">
