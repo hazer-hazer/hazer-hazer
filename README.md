@@ -9,14 +9,15 @@
   </a>
 </p>
 
+<!-- 
 <p align="center">
   <h3>Stats</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hazer-hazer&count_private=true&show_icons=true&theme=dracula&border_radius=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hazer-hazer&count_private=true&show_icons=true&theme=dracula&border_radius=6&hide_rank=true" />
   </a>
   <br>
   <br>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazer-hazer&theme=dracula&langs_count=8&layout=compact" />
   </a>
-</p>
+</p> -->
