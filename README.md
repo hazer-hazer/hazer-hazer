@@ -2,6 +2,8 @@
 
 ![image](https://www.codewars.com/users/hazer_hazer/badges/micro)
 
+![image](https://github.com/hazer-hazer/hazer-hazer/assets/29581311/11c62a1a-c7a4-4ff5-8ced-60b72777e9ef)
+
 ### Cooking
 
 <p>
