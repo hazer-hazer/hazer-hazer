@@ -4,6 +4,11 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:640/1*EyBu3xyslFozyfa_UUlK0w.gif" width="250">
 
+![](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+
 ### Cooking
 
 <p>
