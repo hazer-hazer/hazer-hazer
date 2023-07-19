@@ -2,13 +2,18 @@
 
 ![image](https://www.codewars.com/users/hazer_hazer/badges/micro)
 
-<img src="https://miro.medium.com/v2/resize:fit:640/1*EyBu3xyslFozyfa_UUlK0w.gif" width="250">
+<img src="https://miro.medium.com/v2/resize:fit:640/1*EyBu3xyslFozyfa_UUlK0w.gif" width="250" align="left">
+<img src="https://media.tenor.com/WeGMUYxXy3gAAAAd/crystal-castles-kept.gif" width="250" align="right">
 
 ![](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+
+
+<!--
 ### Cooking
 
 <p>
@@ -17,6 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacylang&repo=Jacy&border_radius=8&show_owner=true&title_color=F35353&bg_color=FFFFFF&text_color=14080E&border_color=D1C8E1&hide_border=false&icon_color=161032"/>
   </a>
 </p>
+-->
 
 <!--
 <p align="center">
