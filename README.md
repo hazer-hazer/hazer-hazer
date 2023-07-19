@@ -1,6 +1,6 @@
 # AUTH ☝️
 
-![image](https://www.codewars.com/users/hazer_hazer/badges/large)
+![image](https://www.codewars.com/users/hazer_hazer/badges/micro)
 
 ### Cooking
 
