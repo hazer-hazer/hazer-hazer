@@ -1,5 +1,7 @@
 # AUTH ☝️
 
+https://www.codewars.com/users/hazer_hazer/badges/large
+
 ### Cooking
 
 <p>
