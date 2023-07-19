@@ -2,7 +2,7 @@
 
 ![image](https://www.codewars.com/users/hazer_hazer/badges/micro)
 
-![image](https://github.com/hazer-hazer/hazer-hazer/assets/29581311/11c62a1a-c7a4-4ff5-8ced-60b72777e9ef)
+<img src="https://miro.medium.com/v2/resize:fit:640/1*EyBu3xyslFozyfa_UUlK0w.gif" width="250">
 
 ### Cooking
 
