@@ -2,7 +2,7 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:640/1*EyBu3xyslFozyfa_UUlK0w.gif" height="250">
 
-![image](https://www.codewars.com/users/hazer_hazer/badges/micro)
+<img src="https://www.codewars.com/users/hazer_hazer/badges/micro" align="center">
 
 ![](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
